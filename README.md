@@ -9,6 +9,7 @@ I'm Pottyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 * 🌍  I'm based in Navi Mumbai, Maharashtra, India
 * ✉  You can contact me at [krahulgovind@gmail.com](mailto:krahulgovind@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects.
+* 🚀  I'm currently working on creating visual search engine for research paper using nested self organizing maps.
 
 <a href="https://www.github.com/rahulorihiki" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rahulorihiki?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
