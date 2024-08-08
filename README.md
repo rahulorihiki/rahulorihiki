@@ -22,6 +22,10 @@ src="https://img.shields.io/github/followers/rahulorihiki?logo=github&style=for-
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="36" height="36" alt="Tableau" /></a>
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/35758225?s=200&v=4" width="36" height="36" alt="MLflow" /></a>
 <a href="https://dvc.org/" target="_blank" rel="noreferrer"><img src="https://static.iterative.ai/logo/dvc.svg" width="36" height="36" alt="DVC" /></a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="36" height="36" alt="Apache Spark" /></a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="36" height="36" alt="GitHub Actions" /></a>
+<a href="https://dagshub.com/" target="_blank" rel="noreferrer"><img src="https://dagshub.com/user_content/dagshub-visuals/dagshub-logo.png" width="36" height="36" alt="DagsHub" /></a>
+<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36" height="36" alt="SQLite" /></a>
 </p>
 
 
