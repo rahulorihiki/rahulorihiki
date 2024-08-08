@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/rahulorihiki?logo=github&style=for-
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="NumPy" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="36" height="36" alt="pandas" /></a>
 <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"><img src="https://www.scipy.org/images/logo.svg" width="36" height="36" alt="SciPy" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://matplotlib.org/_static/logo2_compressed.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswvtjxC00QszjNnfMUUvfxJ0P0IpONRGw9AOBDI-83QifHvvrjb0rE9aR8EvTCBF5R3U&usqp=CAU" width="36" height="36" alt="Matplotlib" /></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSRoSm-EYKgjHtcsA0EDLdF5n_RDX9wDDCXKcG3sJGkdr1IN4yNm7ESqG0f7U_FEs3-Q&usqp=CAU" width="36" height="36" alt="Matplotlib" /></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="36" height="36" alt="seaborn" /></a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/5997976?s=280&v=4" width="36" height="36" alt="Plotly" /></a>
 </p>
