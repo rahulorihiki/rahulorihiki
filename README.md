@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Machine Learning Engineer
 ----------------------------------
 
-👋 Hi, I'm Rahul Govindkumar, passionate about leveraging machine learning, especially computer vision, to solve real-world problems. Currently pursuing post-graduation in Artificial Intelligence and Data Science from Jio Institute, I also have a strong background in full-stack web development and MLOps, including CI/CD pipelining. Therefore, I excel at creating end-to-end production-ready AI web applications, effectively blending my technical skills with practical AI solutions.
+I'm passionate about leveraging machine learning, especially computer vision, to solve real-world problems. Currently pursuing post-graduation in Artificial Intelligence and Data Science from Jio Institute, I also have a strong background in full-stack web development and MLOps, including CI/CD pipelining. Therefore, I excel at creating end-to-end production-ready AI web applications, effectively blending my technical skills with practical AI solutions.
 
 * 🌍  I'm based in Navi Mumbai, Maharashtra, India
 * ✉  You can contact me at [krahulgovind@gmail.com](mailto:krahulgovind@gmail.com)
